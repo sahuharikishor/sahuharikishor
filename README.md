@@ -131,16 +131,6 @@ ravi = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sahuharikishor&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
 
 <div align="center">
 
