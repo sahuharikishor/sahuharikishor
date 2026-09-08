@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 ```python
-ravi = {
+Harikishor = {
     "name"       : "Harikishor Sahu",
     "college"    : "IIT Patna (2024–2028)",
     "degree"     : "B.S. in Computer Science & Data Analytics",
