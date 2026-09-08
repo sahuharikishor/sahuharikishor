@@ -21,7 +21,7 @@ ravi = {
     "interests"  : ["Data Science", "Machine Learning", "Web Development"],
     "currently"  : "Building AI/ML projects & improving DSA",
     "learning"   : ["Deep Learning", "Data Structures & Algorithms"],
-    "looking_for": "Internship opportunities in Data Science / SDE roles",
+    "looking_for": "Internship opportunities in Web-Development, Data Science / SDE roles",
     "fun_fact"   : "I debug code with the same energy I solve math problems 🧮"
 }
 ```
