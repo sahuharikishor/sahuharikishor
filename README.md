@@ -16,8 +16,8 @@
 Harikishor = {
     "name"       : "Harikishor Sahu",
     "college"    : "IIT Patna (2024–2028)",
-    "degree"     : "B.S. in Computer Science & Data Analytics",
-    "location"   : "Bihar, India 📍",
+    "degree"     : "B.S in Computer Science & Data Analytics",
+    "location"   : "Patna, Bihar",
     "interests"  : ["Data Science", "Machine Learning", "Web Development"],
     "currently"  : "Building AI/ML projects & improving DSA",
     "learning"   : ["Deep Learning", "Data Structures & Algorithms"],
