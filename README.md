@@ -67,7 +67,7 @@ Harikishor = {
 ## 🌐 Connect With Me
 
 <div align="center">
-
+[![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://harikishor-sahu.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikishor-sahu-25ba1a281/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahu_harikishor?igsh=Nm9mOW5kYzUzeW55)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikishorsahu2@gmail.com)
